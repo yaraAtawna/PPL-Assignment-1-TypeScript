@@ -1,0 +1,1 @@
+This repository contains the implementation for Assignment 1 of the Principles of Programming Languages 242 course. The project is developed using TypeScript and adheres to the specified project structure and requirements.
